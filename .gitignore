@@ -1,1 +1,7 @@
 /target
+DOCS.md
+.env
+
+.gitignore
+/migrations
+*.db
